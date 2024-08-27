@@ -8,13 +8,6 @@ I’m a software developer with a passion for building web applications, optimiz
 - **Frameworks**: React, Angular, Node.js, Spring Boot
 - **Tools**: Git, Docker, Kubernetes, AWS, Jenkins
 
-## 💼 Projects
-
-### [Project Name](https://github.com/yourusername/projectname)
-A brief description of the project, what it does, and the technologies used.
-
-### [Another Project](https://github.com/yourusername/anotherproject)
-Another brief description.
 
 ## 📊 GitHub Stats
 
@@ -22,9 +15,8 @@ Another brief description.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-orange?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geethaparthasarathy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-orange?style=for-the-badge)](https://yourportfolio.com](https://www.geethap.tech/))
 
 <!--
 **geethaPsarathy/geethaPsarathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
