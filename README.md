@@ -1,34 +1,34 @@
 # Hi, I'm Geetha Sarathy 👋
 
-I’m a software developer with a passion for building web applications, optimizing performance, and solving complex problems with elegant code. I'm constantly learning new technologies and improving my skills.
+👩‍💻 Full Stack Developer | Code Sorceress 🧙‍♀️
+
+Turning coffee ☕ into code, one commit at a time. I wrangle React into submission on the front end and wrestle with Node.js in the back end. 🚀
+
+Constantly shipping features, squashing bugs 🐛, and leveling up with TypeScript, GraphQL, and more. If it's got a stack, I’m stacking it.
+
+Part-time algorithm whisperer and microservices architect. Pro tip: I’ve been known to sprinkle a little magic into CI/CD pipelines. 🪄✨
+
+Let's build something epic! 💥
 
 ## 🚀 Skills
 
-- **Languages**: JavaScript, TypeScript, Python, Java, C++
-- **Frameworks**: React, Angular, Node.js, Spring Boot
-- **Tools**: Git, Docker, Kubernetes, AWS, Jenkins
+- **Languages**: JavaScript, TypeScript, Python, Java
+- **Frameworks**: React, Angular, Node.js, Spring Boot , GraphQL (Apollo Client & Server), Groovy, 
+- **Tools**: Git, Docker, Kubernetes, AWS, Jenkins, Apache Kafka
+- 
+### 📊 GitHub Stats
+![Geetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-## 📊 GitHub Stats
+### 🚀 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
-![Geetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetha-sarathy&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geethaparthasarathy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-orange?style=for-the-badge)](https://yourportfolio.com](https://www.geethap.tech/))
 
-<!--
-**geethaPsarathy/geethaPsarathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
