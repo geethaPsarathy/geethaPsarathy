@@ -17,13 +17,13 @@ Let's build something epic! 💥
 - **Tools**: Git, Docker, Kubernetes, AWS, Jenkins, Apache Kafka
 - 
 ### 📊 GitHub Stats
-![Geetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Geetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=geethaPsarathy&show_icons=true&theme=radical)
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethaPsarathy&layout=compact&theme=radical)
 
 ### 🚀 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geethaPsarathy&theme=radical)
 
 
 ## 🌐 Connect with Me
